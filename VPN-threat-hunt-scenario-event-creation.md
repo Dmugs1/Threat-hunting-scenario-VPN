@@ -74,7 +74,7 @@ DeviceFileEvents
 | where InitiatingProcessAccountName == "employee"
 | order by Timestamp desc
 | project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, Account = InitiatingProcessAccountName```
-
+```
 ---
 
 ## Created By:
