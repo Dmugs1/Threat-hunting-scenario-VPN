@@ -85,7 +85,7 @@ DeviceProcessEvents
 
 ---
 
-### 4. Searched the DeviceNetworkEvents Table for Protonvpn Server Connections
+### 4. Searched the DeviceNetworkEvents Table for ProtonVPN Server Connections
 
 Searched the DeviceNetworkEvents table for any indication of network connections to VPN servers. On 2025-01-28T08:38:29.400644Z, a successful connection was made from the device named "dmug-threat-hun" by the user account "employee." The process involved the execution of the file "openvpn.exe" with connections to known VPN servers.
 
