@@ -3,8 +3,8 @@
 
 
 # Threat Hunt Report: Unauthorized VPN Usage
-- [Scenario 
-
+- [Scenario Creation](https://github.com/Dmugs1/Threat-hunting-scenario-VPN/blob/main/VPN-threat-hunt-scenario-event-creation.md)
+  
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint
